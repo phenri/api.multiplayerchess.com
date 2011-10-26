@@ -1,0 +1,14 @@
+{
+  "debug":true,
+  "web":{
+    "host":"127.0.0.1",
+    "port":8315
+  },
+  "db":{
+    "name":"chess_dev",
+    "host":"127.0.0.1",
+    "port":27017,
+    "user":"",
+    "passwd":""
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "api.multiplayerchess.com",
+  "version": "1.3.0",
+  "description": "MultiplayerChess.com Backend API",
+  "author": "Azer Koculu <azer@kodfabrik.com> (http://azer.kodfabrik.com)",
+  "dependencies":{
+    "functools":"1.x",
+    "mongodb":"0.x",
+    "forever":"0.x",
+    "express":"2.x",
+    "log4js":"0.x",
+    "dateformat":"1.x",
+    "chess.js":"0.x"
+  },
+  "devDependencies":{
+    "vows":"0.x"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib/service",
+  "homepage": "http://github.com/azer/api.multiplayerchess.com"
+}
