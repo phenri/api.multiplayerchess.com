@@ -8,7 +8,8 @@ First Steps
 $ git clone https://github.com/azer/api.multiplayerchess.com.git
 $ cd api.multiplayerchess.com
 $ npm install
-$ node lib/start.js```
+$ node lib/start.js
+```
 
 Development
 ===========
