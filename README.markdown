@@ -15,6 +15,7 @@ Development
 ===========
 api.multiplayerchess.com is under development right now. Below is the short reference of the API I'm working on:
 
+```
  DONE players/online
  DONE auths/touch @auth
  TODO auth/:id
@@ -32,6 +33,7 @@ api.multiplayerchess.com is under development right now. Below is the short refe
  TODO game/:id/offer/takeback @auth
  TODO game/:id/offer/newround @auth
  TODO game/:id/message @auth
+```
 
 License
 =======
